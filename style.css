@@ -1,0 +1,17 @@
+body{color: white;}
+#main{box-shadow: 5px 10px black; position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;border: 2px solid black;width: 525px;height: 400px;background-color: darkslategrey;border-radius: 20px;}
+#top{text-align: center;font-size: 35px;}
+
+
+#ampm{float: left;margin-top: 170px;font-size:xx-large;margin-left: 10px;}
+
+.x{float: left;height: 200px;width: 150px;background-color: black;margin-left: 20px;font-size: 150px;text-align: center;border-radius: 20px;padding: 10px;}
+
+#midl{margin-left: 35px;}
+#middle{float: left; font-size:80px;margin-top: 50px;margin-left: 20px;}
+
+
+.y{float: left;margin-top: 25px;font-size: xx-large;} 
+#bot{width: 100px;margin-left: 50px}
+#y1{margin-left: 100px; width: 200px;}
+#y1 button{margin-left: 50px; height: 35px;width: 100px; border-radius: 15px;margin-bottom: 20px;font-size: 15px;text-decoration: bold;}
